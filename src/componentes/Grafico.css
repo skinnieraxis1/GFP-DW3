@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .espacio-grafico{
     height: 550px;
     width: 550px;
     float: right;
     margin-top: 100px;
     margin-right: 5%;
+=======
+.espacio-grafico{
+    height: 550px;
+    width: 550px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 5%;
+>>>>>>> 4401f718d5b0462495dd8645e91537a20c6df4ee
 }
