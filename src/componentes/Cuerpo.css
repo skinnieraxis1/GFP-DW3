@@ -1,0 +1,80 @@
+.cuerpo{
+    width: 1000px;
+    margin-left: 20%;
+}
+.zona-ingreso{
+    background-color: #4498c1;
+    width: 800px;
+    height: 100px;
+    border-radius: 25px;
+} 
+h1{
+    font-size: 80px !important;
+}
+.input-ingresos{
+    background-color: #4498c1;
+    height: 40px;
+    width: 245px;
+    float: left;
+    border:0px;
+    border-radius: 25px;
+    font-size: 47px;
+    text-align: center;
+}
+.div-input-ingresos{
+    background-color: #4498c1;
+    height: 42px;
+    width: 300px;
+    float: left;
+    border:0px;
+    border-radius: 25px;
+    font-size: 20px;
+    margin: 10px 0px 0px 10px;
+}
+.form-ingresos{
+    border:0px;
+    border-radius: 25px;
+    margin: 150px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
+.contenedor-form{
+    margin: 10px 0px 0px 20px;
+}
+.label-ingresos{
+    font-size: 40px;
+}
+.div-li-ingresos{
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+.button-input{
+    color: #6ce5e8;
+    font-size: 10px;
+    font-weight: 400;
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    text-align: center;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.button-input:hover{
+    color: #5ec7c8;
+    transition: all 300ms ease;
+}
+.button-input:active{
+    color: #479899;
+}
+.sacar{
+    color: #4498c1;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.agregar{
+    color: #6ce5e8;
+    font-size: 10px;
+    float: left;
+    margin: 0px 0px 0px 0px;
+}
